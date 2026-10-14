@@ -1,0 +1,8 @@
+{
+  "frozen_predictions_sha256": "0251cbdd08d151bdd695b81571fc6ade52b479127a9b166ddab8bf881724b00b",
+  "frozen_spec_sha256": "dbbea3ebdfcc812dfb8644da793dc1e56b1083896a31c18def3356d0824b70db",
+  "max_probability_error": 6.303638810933876e-08,
+  "passing_signal_mismatches": 0,
+  "historical_labels_only": true,
+  "2025_outcomes_not_used": true
+}
